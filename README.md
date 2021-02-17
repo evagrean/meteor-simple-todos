@@ -1,4 +1,4 @@
-# meteor-simple-todos
+# To-Do App with Meteor
 
 This is a small app to manage a task list and collaborate with others on those tasks.
 
